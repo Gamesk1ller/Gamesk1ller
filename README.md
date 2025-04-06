@@ -1,7 +1,6 @@
 - 👋 Hi I'm @Gamesk1ller
-- 👀 I’m interested in PLaying Games and Programming 
+- 👀 I’m interested in Playing Games and Programming 
 - 🌱 I’m currently learning HTML, CSS, Javasript and Java
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me via Mail: gameskiller01.gaming@gmail.com
 
 <!---
